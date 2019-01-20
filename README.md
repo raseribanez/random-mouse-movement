@@ -1,6 +1,8 @@
 # random-mouse-movement
 a short collection of programs that simulate mouse movement to prevent things like screen lock
 
+I recommend using mouse_mover_timed
+
 In short, this whole idea came from a problem I had yesterday. I was downloading and installing a huge file, I left the computer on in the back room, but every time it locked or went to sleep, the processes stopped.
 
 So rather than editing the whole setup of my power and sleep settings I wanted to write a short program to move the mouse around and stop the computer going idle and locking up.
